@@ -71,12 +71,12 @@ The dataset contains **101,766 hospital admission records** from **71,518 unique
 healthcare_readmission_hospital_performance_analysis/
 │
 ├── README.md
+├── dashboard-preview.png
+├── diabetes_data.csv
 ├── healthcare_analysis.ipynb
-├── healthcare_dashboard.pbix
-├── dataset.csv
-├── healthcare_project_report.pdf
-├── healthcare_project_presentation.pdf
-└── dashboard_preview.png
+├── healthcare_analysis_dashboard.pbix
+├── healthcare_analysis_presentation.pdf
+└── healthcare_analysis_report.pdf
 ```
 
 ---
@@ -134,7 +134,7 @@ The analysis focused on:
 
 **Dashboard Preview**
 
-![Healthcare Dashboard](dashboard_preview.png)
+![Healthcare Dashboard](dashboard-preview.png)
 
 ---
 
