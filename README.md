@@ -4,68 +4,68 @@ Analyzing hospital readmission patterns, patient demographics, and hospital perf
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
-* [Overview](#-overview)
-* [Business Problem](#-business-problem)
-* [Dataset](#-dataset)
-* [Tools & Technologies](#-tools--technologies)
-* [Project Structure](#-project-structure)
-* [Data Cleaning & Preparation](#-data-cleaning--preparation)
-* [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-* [Power BI Dashboard](#-power-bi-dashboard)
-* [Key Findings](#-key-findings)
-* [Project Report](#-project-report)
-* [Project Presentation](#-project-presentation)
-* [Author & Contact](#-author--contact)
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Project Structure](#project-structure)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Key Findings](#key-findings)
+- [Project Report](#project-report)
+- [Project Presentation](#project-presentation)
+- [Author & Contact](#author--contact)
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project analyzes hospital readmission data to understand patient demographics, admission patterns, hospital stay duration, and treatment information. The analysis was performed using Python for data cleaning and exploratory analysis, followed by an interactive Power BI dashboard for visualization.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Hospital readmissions are an important indicator of healthcare quality and resource utilization. This project aims to:
 
-* Analyze hospital readmission trends
-* Understand patient demographics
-* Explore admission patterns
-* Examine hospital stay duration
-* Build an interactive dashboard for healthcare insights
+- Analyze hospital readmission trends
+- Understand patient demographics
+- Explore admission patterns
+- Examine hospital stay duration
+- Build an interactive dashboard for healthcare insights
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains **101,766 hospital admission records** from **71,518 unique patients** with **50 variables**, including:
 
-* Patient Demographics
-* Admission Details
-* Readmission Status
-* Length of Stay
-* Medications
-* Diagnoses
-* Race & Gender
+- Patient Demographics
+- Admission Details
+- Readmission Status
+- Length of Stay
+- Medications
+- Diagnoses
+- Race and Gender
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Power BI
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Power BI
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 healthcare_readmission_hospital_performance_analysis/
@@ -81,7 +81,7 @@ healthcare_readmission_hospital_performance_analysis/
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 * Explored dataset structure and data types
 * Checked for missing values and duplicate records
@@ -90,7 +90,7 @@ healthcare_readmission_hospital_performance_analysis/
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The analysis focused on:
 
@@ -105,7 +105,7 @@ The analysis focused on:
 
 ---
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 ### KPI Cards
 
@@ -132,13 +132,13 @@ The analysis focused on:
 * Admission Type
 * Race
 
-📷 **Dashboard Preview**
+**Dashboard Preview**
 
-*![Healthcare Dashboard](dashboard_preview.png)*
+![Healthcare Dashboard](dashboard_preview.png)
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 * The dataset contains **101,766** hospital admissions from **71,518** unique patients.
 * Approximately **54%** of admissions did not result in readmission.
@@ -151,26 +151,24 @@ The analysis focused on:
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 A detailed project report describing the project workflow, data preparation, analysis, dashboard design, and key insights.
 
 ---
 
-## 🎥 Project Presentation
+## Project Presentation
 
 A presentation summarizing the project objectives, analysis, dashboard, and key findings.
 
 ---
 
-## 👩‍💻 Author & Contact
+## Author & Contact
 
-**Shivani Verma**
+**Shivani Verma**  
 
-Aspiring Data Analyst
+Aspiring Data Analyst  
 
-📧 Email: [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com)
-
-🔗 LinkedIn: [Shivani Verma](https://www.linkedin.com/in/shivani-verma-23076629a/)
-
-🌐 Portfolio: *Add your portfolio link*
+Email: [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com) 
+ 
+[LinkedIn](https://www.linkedin.com/in/shivani-verma-23076629a/)  
