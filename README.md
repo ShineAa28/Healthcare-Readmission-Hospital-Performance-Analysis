@@ -1,6 +1,6 @@
 # Healthcare Readmission & Hospital Performance Analysis
 
-Analyzing hospital readmission patterns, patient demographics, and hospital performance using **Python** and **Power BI**.
+Analyzing hospital readmission patterns, patient demographics, and hospital performance among diabetic patients using **Python** and **Power BI**.
 
 ---
 
@@ -41,7 +41,9 @@ Hospital readmissions are an important indicator of healthcare quality and resou
 
 ## Dataset
 
-The dataset contains **101,766 hospital admission records** from **71,518 unique patients** with **50 variables**, including:
+The dataset contains **101,766 hospital admission records** from **71,518 unique patients** with **50 variables**.
+
+The dataset focuses on patients with diabetes and includes information related to:
 
 - Patient Demographics
 - Admission Details
@@ -50,6 +52,8 @@ The dataset contains **101,766 hospital admission records** from **71,518 unique
 - Medications
 - Diagnoses
 - Race and Gender
+
+The analysis focuses on understanding readmission patterns and hospital performance among diabetic patients.
 
 ---
 
@@ -153,11 +157,15 @@ The analysis focused on:
 
 ## Project Report
 
+[View Project Report](healthcare_analysis_report.pdf)
+
 A detailed project report describing the project workflow, data preparation, analysis, dashboard design, and key insights.
 
 ---
 
 ## Project Presentation
+
+[View Project Presentation](healthcare_analysis_presentation.pdf)
 
 A presentation summarizing the project objectives, analysis, dashboard, and key findings.
 
