@@ -180,3 +180,5 @@ Aspiring Data Analyst
 Email: [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com) 
  
 [LinkedIn](https://www.linkedin.com/in/shivani-verma-23076629a/)  
+
+[Portfolio](https://shivani-verma.lovable.app)
